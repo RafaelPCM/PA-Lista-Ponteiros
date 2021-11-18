@@ -5,4 +5,5 @@ p = &*&i;
 i = *&j;
 i = *&*&j;
 i = (*p)++ + *q; 
+
 // será válida apenas se os ponteiros já tiverem sido atribuídos.
