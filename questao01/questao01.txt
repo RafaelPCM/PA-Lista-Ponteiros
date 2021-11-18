@@ -10,4 +10,4 @@ Determinando o valor das dadas expressões:
 (3) 3;
 (4) 10; 
 
-// isso ocorre pois a divisão está sendo feita com números inteiros, assim, o que seria um resultado decimal, é arredondado para baixo como inteiro
+// isso ocorre pois a divisão está sendo feita com números inteiros, assim, o que seria um resultado decimal, é arredondado para baixo como inteiro.
